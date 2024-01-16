@@ -1,0 +1,45 @@
+body{
+    background-image: url(silverware.jpg);
+    background-size:contain;
+    margin-top: 0%;
+    margin-right: 10% ;
+    margin-left: 10%;
+    
+}
+h1{
+    text-align: center;
+    background-color: rgb(232, 225, 215);  
+    color: goldenrod;
+
+}
+p{
+    text-align: left;
+    margin: 0;
+    font-size: larger;
+}
+
+.heading{
+    text-align: left;
+    color: goldenrod;
+}
+
+.disc{
+    list-style-type:disc;
+    font-size: larger;
+}
+
+
+.circle{
+    list-style-type: circle;
+    font-size: larger;
+}
+
+.para{
+    margin-left: 4%;
+    background-color: rgb(245, 245, 165);
+    margin-top: 1.5%;
+}
+
+pre{
+    color: rgb(123, 97, 61);   ;
+}
